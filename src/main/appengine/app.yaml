@@ -1,2 +1,0 @@
-mkdir -p src/main/appengine/
-touch src/main/appengine/app.yaml
